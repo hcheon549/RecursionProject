@@ -1,2 +1,1 @@
-# Recursion Project
-## from Data Structure and Algorithm
+Recursion Project from Data Structure and Algorithm
